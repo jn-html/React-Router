@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+.navLink{
+  margin: 25px;
+  font-size: 24px;
+}
+
+.active{
+  color: red;
+}
